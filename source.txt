@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cricket World Cup</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cricket World Cup</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Schedule</a></li>
+            <li><a href="#">Teams</a></li>
+            <li><a href="#">Statistics</a></li>
+        </ul>
+    </nav>
+    <main>
+        <!-- Your content goes here -->
+    </main>
+    <footer>
+        &copy; 2023 Cricket World Cup
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+CSS Styles:
+Create a CSS file (styles.css) to style your website. You can customize this according to your design preferences.
+css
+Copy code
+/* CSS styles for your website */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0047ab;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #0047ab;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+footer {
+    text-align: center;
+    background-color: #0047ab;
+    color: white;
+    padding: 10px;
+}
+Advanced JavaScript:
+Create a JavaScript file (script.js) for adding interactivity. This can include fetching data, creating dynamic elements, and handling user interactions.
+javascript
+Copy code
+// Your JavaScript code for interactivity goes here
+// You can use AJAX or fetch to get data, create dynamic elements, and handle user interactions.
+Data Sources:
+Depending on your requirements, you might need to fetch data from various sources, such as APIs for live scores, schedules, and player information.
+
+Integration:
+Integrate your JavaScript code to handle different aspects of your Cricket World Cup website, such as updating scores, displaying schedules, and providing team statistics.
+
+Remember that building a fully-featured cricket website involves a lot of design, data handling, and JavaScript development. You may need to explore third-party APIs to obtain real-time data and implement features like live scores and statistics. This is a high-level starting point, and you can expand and refine it based on your specific needs.
+
+
+
+
+
